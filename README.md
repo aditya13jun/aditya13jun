@@ -22,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya13jun&show_icons=true&locale=en" alt="aditya13jun" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya13jun&" alt="aditya13jun" /></p>
+
+[![An image of @aditya13jun's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aditya13jun)](https://holopin.io/@aditya13jun)
