@@ -24,3 +24,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya13jun&" alt="aditya13jun" /></p>
 
 [![An image of @aditya13jun's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aditya13jun)](https://holopin.io/@aditya13jun)
+
+[![An image of Hacksquad 2023 Ticket](https://github.com/aditya13jun/aditya13jun/blob/main/assets/Screenshot%202023-10-14%20200636.png)](https://www.hacksquad.dev/ticket/aditya13jun)
