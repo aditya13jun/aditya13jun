@@ -1,5 +1,5 @@
 
-![MasterHead](https://camo.githubusercontent.com/1e1097dc1b74766f840aabdfd343e31d14215acff44b04ac327bec21d5361e52/68747470733a2f2f7334313636302e7063646e2e636f2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f39302d61727469636c652d62616e6e65722d322e676966)
+![MasterHead]([https://camo.githubusercontent.com/1e1097dc1b74766f840aabdfd343e31d14215acff44b04ac327bec21d5361e52/68747470733a2f2f7334313636302e7063646e2e636f2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f39302d61727469636c652d62616e6e65722d322e676966](https://i.gifer.com/J4o.gif))
 <h1 align="center">Hi 👋, I'm Aditya Harsh</h1>
 <h3 align="center">An Engineering Student from India!</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
